@@ -1,2 +1,2 @@
 # c-Questions-
-To practice C logics
+To practice C String Logic.
