@@ -34,7 +34,7 @@ int main() {
         char right = str[j];
 
         // convert to lowercase if uppercase
-        
+
         if (left >= 'A' && left <= 'Z') {
             left = left + 32;
         }
@@ -47,7 +47,7 @@ int main() {
             break;
         }
     }
-
+    // printing while checking palindrome or not.
     if (palindrome) {
         printf("Palindrome\n");
     } else {
