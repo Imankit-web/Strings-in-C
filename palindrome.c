@@ -1,4 +1,6 @@
 /*
+Q. Wap to check wheather a string is a palindrome or not.
+
 RULES (important)
 No strrev()
 No extra string
