@@ -1,4 +1,7 @@
 /*
+Q> wap to find the first non repeating character
+
+
 No string functions
 No pointers
 No hash tables / maps
@@ -37,5 +40,7 @@ int main() {
     }
 
     printf("No non-repeating character found\n");
+
+
     return 0;
 }
